@@ -1,4 +1,5 @@
-# Linear_Regression
+# Linear Regression
+
 To analyze data and implement different types of linear regression models. Compare results by visualizing output and conclude best model.
 
 1. Simple Linear Regression
